@@ -1,0 +1,6 @@
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\bin\Debug\BinarySearch2.exe.config
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\bin\Debug\BinarySearch2.exe
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\bin\Debug\BinarySearch2.pdb
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\obj\Debug\BinarySearch2.csprojResolveAssemblyReference.cache
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\obj\Debug\BinarySearch2.exe
+C:\Users\Shruix\Desktop\301 Assignment\BinarySearch2\BinarySearch2\obj\Debug\BinarySearch2.pdb
